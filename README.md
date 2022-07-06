@@ -2,7 +2,11 @@
 
 <br>
 
-## &nbsp; <img src="https://c.tenor.com/-YU1FXNSViIAAAAM/chloe-donald-glasses.gif " align="center"> &nbsp;About me
+---: | :About me: | :---
+
+<br>
+
+ <img src="https://c.tenor.com/-YU1FXNSViIAAAAM/chloe-donald-glasses.gif " align="center"> 
 
 <br>
 
@@ -13,13 +17,9 @@
 - 📫 How to reach me: Walking, Dããã!
 
 <br>
-<br>
-<br>
 
-## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
+## My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!---
 denis-donda/denis-donda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
