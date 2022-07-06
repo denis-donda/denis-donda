@@ -2,7 +2,7 @@
 
 <br>
 
-## &nbsp; <img src="https://c.tenor.com/-YU1FXNSViIAAAAM/chloe-donald-glasses.gif " width="30" align="center"> &nbsp;About me
+## &nbsp; <img src="https://c.tenor.com/-YU1FXNSViIAAAAM/chloe-donald-glasses.gif " align="center"> &nbsp;About me
 
 <br>
 
@@ -18,8 +18,6 @@
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EvanderInacio&hide_border=true&theme=react-dark)
 
 
 
