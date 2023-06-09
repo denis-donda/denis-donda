@@ -1,4 +1,7 @@
-# Hi, I'm Dênis Henrique <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+<div style="text-align: center;"> 
+    <img src="images/dênis-donda.gif" />
+    <h2>Hi, I'm 'Dênis Henrique Donda de Oliveira</h2>
+</div>
 
 <br>
 
