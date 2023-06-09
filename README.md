@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-    <img src="images/dênis-donda.gif" />
+    <img src="images/dênis_donda.gif" />
     <h2>Hi, I'm 'Dênis Henrique Donda de Oliveira</h2>
 </div>
 
