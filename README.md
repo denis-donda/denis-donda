@@ -5,10 +5,10 @@
 </p>
 
 <h3 align="center">
-    Hi there, I'm <a href="https://www.linkedin.com/in/d%C3%AAnis-henrique-donda-de-oliveira-b14758a6/" target="_blank" rel="noreferrer">'Dênis Henrique Donda de Oliveira</a> 👋
+    Hi there, my name is <a href="https://www.linkedin.com/in/d%C3%AAnis-henrique-donda-de-oliveira-b14758a6/" target="_blank" rel="noreferrer">'Dênis Henrique Donda de Oliveira</a> 👋
 </h3>
 <h2 align="center">
-    I'm a Jr Software Engineer 🧑‍💻 Back-end Developer and I keep studying <img src="images/foguete.png" alt="Foguete"/>!
+    I am a Software Engineer, Back-end Developer and I keep studying! <img src="images/foguete.png" alt="Foguete"/>
 </h2>
 
 The journey is long, heavy and full of challenges. At every moment we need to show our ability to overcome problems and find safe, functional and creative solutions. Let's code?
